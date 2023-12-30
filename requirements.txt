@@ -1,0 +1,18 @@
+accelerate==0.24.1
+bitsandbytes==0.41.2.post2
+einops==0.7.0
+glob2==0.7
+langchain==0.0.336
+llama-hub==0.0.19
+llama-index==0.7.21
+openai==0.28.0
+pypdf==3.17.1
+scipy==1.11.3
+sentence-transformers==2.2.2
+sentencepiece==0.1.99
+torch==2.1.0+cu118  # Specify the version you need
+torchaudio==2.1.0+cu118  # Specify the version you need
+torchvision==0.16.0+cu118  # Specify the version you need
+transformers==4.35.2
+xformers==0.0.22.post7
+streamlit==1.28.2
